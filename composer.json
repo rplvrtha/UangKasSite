@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "ext-gd": "*",
+        "ext-fileinfo": "*"
+    }
+}
